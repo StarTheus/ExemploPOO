@@ -1,0 +1,14 @@
+unit uAvião;
+
+interface
+
+type
+  TAviao = class
+    Descrcao : string;
+    Capacidade : integer;
+    HorasVoo : integer;
+  end;
+
+implementation
+
+end.
